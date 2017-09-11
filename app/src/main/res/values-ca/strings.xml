@@ -1,137 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple Gallery</string>
-    <string name="app_launcher_name">Gallery</string>
-    <string name="edit">Edit</string>
-    <string name="open_camera">Open camera</string>
-    <string name="open_with">Open with</string>
-    <string name="no_app_found">No valid app found</string>
-    <string name="hidden">(hidden)</string>
-    <string name="pin_folder">Pin folder</string>
-    <string name="unpin_folder">Unpin folder</string>
-    <string name="show_all">Show all folders content</string>
-    <string name="all_folders">All folders</string>
-    <string name="folder_view">Switch to folder view</string>
-    <string name="other_folder">Other folder</string>
-    <string name="show_on_map">Show on map</string>
-    <string name="unknown_location">Unknown location</string>
-    <string name="no_map_application">No application with maps has been found</string>
-    <string name="no_camera_app_found">No Camera app has been found</string>
-    <string name="increase_column_count">Increase column count</string>
-    <string name="reduce_column_count">Reduce column count</string>
-    <string name="change_cover_image">Change cover image</string>
-    <string name="select_photo">Select photo</string>
-    <string name="use_default">Use default</string>
-    <string name="set_as">Set as</string>
-    <string name="volume">Volume</string>
-    <string name="brightness">Brightness</string>
+    <string name="app_launcher_name">Galleria</string>
+    <string name="edit">Editar</string>
+    <string name="open_camera">Obrir càmara</string>
+    <string name="open_with">Obrir amb&#8230;</string>
+    <string name="no_app_found">No s'ha trobat una aplicació vàlida</string>
+    <string name="hidden">(ocult)</string>
+    <string name="pin_folder">Fixar carpeta</string>
+    <string name="unpin_folder">No fixar carpeta</string>
+    <string name="show_all">Mostrar el contingut de totes les carpetes</string>
+    <string name="all_folders">Totes les carpetes</string>
+    <string name="folder_view">Canviar a vista de carpeta</string>
+    <string name="other_folder">Altra carpeta</string>
+    <string name="show_on_map">Mostrar en el mapa</string>
+    <string name="unknown_location">Ubicació desconeguda</string>
+    <string name="no_map_application">No s'ha trobat aplicació de mapes</string>
+    <string name="no_camera_app_found">No s'ha trobat aplicació de càmara</string>
+    <string name="increase_column_count">Augmentar el nombre ce columnes</string>
+    <string name="reduce_column_count">Reduir el nombre de columnes</string>
+    <string name="change_cover_image">Canviar la imatge de portada</string>
+    <string name="select_photo">Seleccionar matge</string>
+    <string name="use_default">Emprar per defecte</string>
+    <string name="set_as">Establir com</string>
+    <string name="volume">Volum</string>
+    <string name="brightness">Brillantor</string>
 
     <!-- Filter -->
-    <string name="filter_media">Filter media</string>
-    <string name="images">Images</string>
-    <string name="videos">Videos</string>
+    <string name="filter_media">Filtrar els mitjans</string>
+    <string name="images">Imatges</string>
+    <string name="videos">Vídeos</string>
     <string name="gifs">GIFs</string>
-    <string name="no_media_with_filters">No media files have been found with the selected filters.</string>
-    <string name="change_filters_underlined"><u>Change filters</u></string>
+    <string name="no_media_with_filters">No s'han trobat arxius de mitjans amb els filtres seleccionats.</string>
+    <string name="change_filters_underlined"><u>Canviar filtres</u></string>
 
     <!-- Hide / Exclude -->
-    <string name="hide_folder_description">This function hides the folder by adding a \'.nomedia\' file into it, it will hide all subfolders too. You can see them by toggling the \'Show hidden folders\' option in Settings. Continue?</string>
-    <string name="exclude">Exclude</string>
-    <string name="excluded_folders">Excluded folders</string>
-    <string name="manage_excluded_folders">Manage excluded folders</string>
-    <string name="exclude_folder_description">This will exclude the selection together with its subfolders from Simple Gallery only. You can manage excluded folders in Settings.</string>
-    <string name="exclude_folder_parent">Exclude a parent instead?</string>
-    <string name="excluded_activity_placeholder">Excluding folders will make them together with their subfolders hidden just in Simple Gallery, they will still be visible in other applications.\n\nIf you want to hide them from other apps too, use the Hide function.</string>
-    <string name="remove_all">Remove all</string>
-    <string name="remove_all_description">Remove all folders from the list of excluded? This will not delete the folders.</string>
+    <string name="hide_folder_description">Aquesta funció amaga una carpeta posant un arxiu \'.nomedia\' en ella, i amagarà també totes les subcarpetes. Es mostraràn canviant l'opció \'Mostrar carpetes ocultes\' als Ajusts. Continuar?</string>
+    <string name="exclude">Excloure</string>
+    <string name="excluded_folders">Carpeta exclosa</string>
+    <string name="manage_excluded_folders">Gestionar carpetes excloses</string>
+    <string name="exclude_folder_description">Això exclourà només de Simple Gallery la carpeta seleccionada i les seves subcarpetes. Es poden gestionar les carpetes excloses en els Ajusts.</string>
+    <string name="exclude_folder_parent">Millor excloure la carpeta superior?</string>
+    <string name="excluded_activity_placeholder">Excloure carpetes les farà ocultes junt amb les seves subcarpetes només a Simple Gallery, romandran visibles en altres aplicacions.\n\nSi vols ocultarles també a altres aplicacions, fes servir la funció Ocultar.</string>
+    <string name="remove_all">Eliminar tot</string>
+    <string name="remove_all_description">Llevar totes les carpetes de la llista de excloses? Això no esborrarà les carpetes.</string>
 
     <!-- Include folders -->
-    <string name="include_folders">Included folders</string>
-    <string name="manage_included_folders">Manage included folders</string>
-    <string name="add_folder">Add folder</string>
-    <string name="included_activity_placeholder">If you have some folders which contain media, but were not recognized by the app, you can add them manually here.</string>
+    <string name="include_folders">Carpetes incloses</string>
+    <string name="manage_included_folders">Gestiona carpetes incloses</string>
+    <string name="add_folder">Afegir carpeta</string>
+    <string name="included_activity_placeholder">Si tens carpetes amb continguts multimèdia, però que no han estat reconegudes per l'aplicació, es poden afegir manualment aquí.</string>
 
     <!-- Resizing -->
-    <string name="resize">Resize</string>
-    <string name="resize_and_save">Resize selection and save</string>
-    <string name="width">Width</string>
-    <string name="height">Height</string>
-    <string name="keep_aspect_ratio">Keep aspect ratio</string>
-    <string name="invalid_values">Please enter a valid resolution</string>
+    <string name="resize">Redimensionar</string>
+    <string name="resize_and_save">Redimensionar la selecció i guardar</string>
+    <string name="width">Amplada</string>
+    <string name="height">Altura</string>
+    <string name="keep_aspect_ratio">Mantenir proporcions</string>
+    <string name="invalid_values">Si us plau, introduir una resolució vàlida</string>
 
     <!-- Editor -->
     <string name="editor">Editor</string>
-    <string name="save">Save</string>
-    <string name="rotate">Rotate</string>
-    <string name="path">Path</string>
-    <string name="invalid_image_path">Invalid image path</string>
-    <string name="image_editing_failed">Image editing failed</string>
-    <string name="edit_image_with">Edit image with:</string>
-    <string name="no_editor_found">No image editor found</string>
-    <string name="unknown_file_location">Unknown file location</string>
-    <string name="error_saving_file">Could not overwrite the source file</string>
-    <string name="rotate_left">Rotate left</string>
-    <string name="rotate_right">Rotate right</string>
-    <string name="rotate_one_eighty">Rotate by 180º</string>
-    <string name="flip">Flip</string>
-    <string name="flip_horizontally">Flip horizontally</string>
-    <string name="flip_vertically">Flip vertically</string>
-    <string name="edit_with">Edit with</string>
+    <string name="save">Guardar</string>
+    <string name="rotate">Girar</string>
+    <string name="path">Ruta</string>
+    <string name="invalid_image_path">Ruta de imatge no vàlida</string>
+    <string name="image_editing_failed">Edició d'imatge fallida</string>
+    <string name="edit_image_with">Editar imatge amb:</string>
+    <string name="no_editor_found">No s'ha trobat editor d'imatges</string>
+    <string name="unknown_file_location">Ubicació d'arxiu desconeguda</string>
+    <string name="error_saving_file">No s'ha pogut sobreescriure l'arxiu original</string>
+    <string name="rotate_left">Girar a l'esquerra</string>
+    <string name="rotate_right">Girar a la dreta</string>
+    <string name="rotate_one_eighty">Girar 180º</string>
+    <string name="flip">Invertir</string>
+    <string name="flip_horizontally">Invertir horizontalment</string>
+    <string name="flip_vertically">Invertir verticalment</string>
+    <string name="edit_with">Editar amb</string>
 
     <!-- Set wallpaper -->
-    <string name="simple_wallpaper">Simple Wallpaper</string>
-    <string name="set_as_wallpaper">Set as Wallpaper</string>
-    <string name="set_as_wallpaper_failed">Setting as Wallpaper failed</string>
-    <string name="set_as_wallpaper_with">Set as wallpaper with:</string>
-    <string name="no_capable_app_found">No app capable of it has been found</string>
-    <string name="setting_wallpaper">Setting wallpaper&#8230;</string>
-    <string name="wallpaper_set_successfully">Wallpaper set successfully</string>
-    <string name="portrait_aspect_ratio">Portrait aspect ratio</string>
-    <string name="landscape_aspect_ratio">Landscape aspect ratio</string>
+    <string name="simple_wallpaper">Fons de pantalla Simple Gallery</string>
+    <string name="set_as_wallpaper">Establir com a fons de pantalla</string>
+    <string name="set_as_wallpaper_failed">Error al establir fons de pantalla</string>
+    <string name="set_as_wallpaper_with">Establir com a fons de pantalla amb:</string>
+    <string name="no_capable_app_found">No s'ha trobat aplicació adecuada</string>
+    <string name="setting_wallpaper">Establint fons de pantalla&#8230;</string>
+    <string name="wallpaper_set_successfully">Fons de pantalla establert correctament</string>
+    <string name="portrait_aspect_ratio">Proporciones tipo retrato</string>
+    <string name="landscape_aspect_ratio">Proporciones tipo paisaje</string>
 
     <!-- Slideshow -->
-    <string name="slideshow">Slideshow</string>
-    <string name="interval">Interval (seconds):</string>
-    <string name="include_photos">Include photos</string>
-    <string name="include_videos">Include videos</string>
-    <string name="include_gifs">Include GIFs</string>
-    <string name="random_order">Random order</string>
-    <string name="use_fade">Use fade animations</string>
-    <string name="move_backwards">Move backwards</string>
-    <string name="loop_slideshow">Loop slideshow</string>
-    <string name="slideshow_ended">The slideshow ended</string>
-    <string name="no_media_for_slideshow">No media for the slideshow have been found</string>
+    <string name="slideshow">Presentació de diapositives</string>
+    <string name="interval">Interval (segons):</string>
+    <string name="include_photos">Incloure fotos</string>
+    <string name="include_videos">Incloure vídeos</string>
+    <string name="include_gifs">Incloure GIFs</string>
+    <string name="random_order">Ordre aleatori</string>
+    <string name="use_fade">Fer servir animacions atenuades</string>
+    <string name="move_backwards">Cap enrere</string>
+    <string name="loop_slideshow">Reproducció contínua de la presentació de diapositives/string>
+    <string name="slideshow_ended">La presentació de diapositives ha finalitzat</string>
+    <string name="no_media_for_slideshow">No s'han trobat mitjans per la presentació de diapositives</string>
 
     <!-- Settings -->
-    <string name="show_hidden_media">Show hidden media</string>
-    <string name="autoplay_videos">Play videos automatically</string>
-    <string name="toggle_filename">Toggle filename visibility</string>
-    <string name="loop_videos">Loop videos</string>
-    <string name="animate_gifs">Animate GIFs at thumbnails</string>
-    <string name="max_brightness">Max brightness when viewing media</string>
-    <string name="crop_thumbnails">Crop thumbnails into squares</string>
-    <string name="screen_rotation_by">Rotate fullscreen media by</string>
-    <string name="screen_rotation_system_setting">System setting</string>
-    <string name="screen_rotation_device_rotation">Device rotation</string>
-    <string name="screen_rotation_aspect_ratio">Aspect ratio</string>
-    <string name="dark_background_at_fullscreen">Dark background at fullscreen media</string>
-    <string name="scroll_thumbnails_horizontally">Scroll thumbnails horizontally</string>
-    <string name="hide_system_ui_at_fullscreen">Automatically hide system UI at fullscreen media</string>
-    <string name="delete_empty_folders">Delete empty folders after deleting their content</string>
-    <string name="allow_video_gestures">Allow controlling video volume and brightness with vertical gestures</string>
-    <string name="replace_share_with_rotate">Replace Share with Rotate at fullscreen menu</string>
+    <string name="show_hidden_media">Mostrar mitjans ocults</string>
+    <string name="autoplay_videos">Reproduir vídeos automaticament</string>
+    <string name="toggle_filename">Canviar visibilitat del nom d'arxiu</string>
+    <string name="loop_videos">Reproducció contínua de vídeos</string>
+    <string name="animate_gifs">Animar les minuatures dels GIFs</string>
+    <string name="max_brightness">Brillantor màxima al veure multimèdia</string>
+    <string name="crop_thumbnails">Retallar miniatures en cuadrats</string>
+    <string name="screen_rotation_by">Girar multimèdia a pantalla completa en</string>
+    <string name="screen_rotation_system_setting">Configuració del sistema</string>
+    <string name="screen_rotation_device_rotation">Rotació del dispositiu</string>
+    <string name="screen_rotation_aspect_ratio">Relación de aspecto</string>
+    <string name="dark_background_at_fullscreen">Fer servir fons fosc en pantalla completa</string>
+    <string name="scroll_thumbnails_horizontally">Moure les miniatures horitzontalment</string>
+    <string name="hide_system_ui_at_fullscreen">Ocultar automàticament la interfaç d'usuari en pantalla completa</string>
+    <string name="delete_empty_folders">Esborrar carpetes buides quan s'esborrin els seus continguts</string>
+    <string name="allow_video_gestures">Permetre controlar volum i brillantor de vídeo amb gestos verticals</string>
+    <string name="replace_share_with_rotate">Reemplaçar Compartir per Girar al menú de pantalla completa</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">A gallery for viewing photos and videos without ads.</string>
     <string name="app_long_description">
-        A simple tool usable for viewing photos and videos. Items can be sorted by date, size, name both ascending or descending, photos can be zoomed in. Media files are shown in multiple columns depending on the size of the display, you can change the column count by pinch gestures. They can be renamed, shared, deleted, copied, moved. Images can also be cropped, rotated, flipped or set as Wallpaper directly from the app.
+        Una eina senzilla que es pot fer servir per veure fotos i vídeos. Els elements es poden ordenar per data, mida, nom tant ascendent com descendent; es pot fer zoom a les fotos. Els arxius de mitjans es mostren en múltiples columnes segons la mida de la pantalla, i es pot canviar el nombre de columnes mitjançant gestos. Permet canviar el nom, compartir, esborrar, moure. Les imatges també es poden retallar, rotar o usar-se com a fons de pantalla directament des de l'aplicació.
+        
+        Gallery també s'ofereix per a ús de tercers per previsualitzar imatges / vídeos, afegir adjunts en clients de correu, etc. És perfecta per l’ús diari.
+        
+        No conté publicitat ni permisos innecessaris. És totalment lliure, proporciona colors personalitzables.
 
-        The Gallery is also offered for third party usage for previewing images / videos, adding attachments at email clients etc. It\'s perfect for everyday usage.
-
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
-
-        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+        Aquesta aplicació és només una peça d'una sèrie més gran d'aplicacions. Podeu trobar la resta en http://www.simplemobiletools.com
     </string>
 
     <!--
